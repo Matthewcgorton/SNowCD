@@ -1,5 +1,4 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
+# Byte-compiled / optimized / DLL files __pycache__/
 *.py[cod]
 *$py.class
 
@@ -87,3 +86,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# dont upload the cred's file
+creds.txt
+
